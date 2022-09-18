@@ -32,31 +32,38 @@ Project's introduction here
 
 ## 🧐About
 
-About your project
+• It's a React web app, which allows users to communicate with peoples.
+<br/>
+• If a message contains abusive words or bullying tone, users will not be able to send it.
+<br/>
+• In case a user/sender violates the rules and attempts to send an abusive message, three warnings will be given, after which the user won't be able to send any messages.
 
 ## 💡Features
 
-1. []()
-1. []()
+1. Abusive filtration.
+2. Anti-Bullying.
+3. Anyone can use it for free.
 
 ## ⛏️Built with
 
--   []()
--   []()
+-   [React js]()
+-   [Socket.io]()
+
 
 
 
 ## 📈Future Plans
 
--   []()
+-   no plans yet, but will make it better for sure...
 
 ## 🎈Usage
 
-How to use your project
+It's simple to use, Click the above link to use it.
+Enter your name and then communicate and enjoy!
 
 ## ✍️Authors
 
 <!-- Add links to all the authors profile here OPTIONAL: You can mention what they did as well -->
 
--   [@author_name](profile link) - what he/she did
+-   [@Nikhil-Kherajani](https://github.com/Nikhil-Kherajani/) - The whole thing was built by me:)
 
