@@ -30,7 +30,7 @@
 Project's introduction here
 </p>
 
-## 🧐About
+## 🙂About
 
 • It's a React web app, which allows users to communicate with peoples.
 <br/>
