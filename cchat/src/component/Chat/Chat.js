@@ -9,7 +9,10 @@ import closeIcon from "../../images/closeIcon.png";
 
 let socket;
 
-const ENDPOINT = "https://babblechatapp1.herokuapp.com/";
+// const ENDPOINT = "https://babblechatapp1.herokuapp.com/";
+const ENDPOINT = "https://babble-chat-app-production.up.railway.app/";
+
+
 
 const Chat = () => {
   const [id, setid] = useState("");
